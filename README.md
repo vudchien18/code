@@ -1,6 +1,6 @@
 # Example application code for the "Architecture Patterns with Python" book..
 
-## Chapters
+## Chapters.
 
 Each chapter has its own branch which contains all the commits for that chapter,
 so it has the state that corresponds to the _end_ of that chapter.
